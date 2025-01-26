@@ -30,7 +30,7 @@ import java. util. Scanner;
 		System.out.printf("Average grade: %.2f%n", average);
 		System.out.printf("Highest grade: %.2f%n", highest);
 		System.out.printf("Lowest grade: %.2f%n", lowest);
-		scanner.close();
+		scanner.closer();
 	}
 		
 
